@@ -8,5 +8,6 @@
 </head>
 <body>
 <p>Travels</p>
+    <img src="https://img.freepik.com/free-photo/travel-concept-with-landmarks_23-2149153256.jpg?w=2000">
 </body>
 </html>
